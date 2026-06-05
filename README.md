@@ -46,6 +46,11 @@ These business rules define quantity-based discounting tiers and limitations:
    - Maximum limit: 20 items per product
    - No discounts allowed for quantities below 4 items
 
+## Getting Started
+This section explains how to run the project locally with Docker and where to access the API and Swagger documentation.
+
+See [Getting Started](/.doc/getting-started.md)
+
 ## Overview
 This section provides a high-level overview of the project and the various skills and competencies it aims to assess for developer candidates. 
 
@@ -61,15 +66,17 @@ This section outlines the frameworks and libraries that are leveraged in the pro
 
 See [Frameworks](/.doc/frameworks.md)
 
-<!-- 
 ## API Structure
 This section includes links to the detailed documentation for the different API resources:
-- [API General](./docs/general-api.md)
-- [Products API](/.doc/products-api.md)
-- [Carts API](/.doc/carts-api.md)
+- [API General](/.doc/general-api.md)
 - [Users API](/.doc/users-api.md)
+- [Sales API](/.doc/sales-api.md)
 - [Auth API](/.doc/auth-api.md)
--->
+
+## Technical Implementation
+This section covers the architecture, design patterns, domain model, migrations, tests, and infrastructure decisions applied in this project.
+
+See [Technical Implementation](/.doc/technical-implementation.md)
 
 ## Project Structure
 This section describes the overall structure and organization of the project files and directories. 
